@@ -1,2 +1,2 @@
 # LYP-2026
-Pablo Uriarte Canales y Harrison Matías Cruz Madrid 
+Pablo Uriarte Canales , Harrison Matías Cruz Madrid y Hugo García 
